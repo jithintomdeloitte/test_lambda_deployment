@@ -1,0 +1,10 @@
+{
+    "dev": {
+        "app_function": "core.wsgi.app",
+        "profile_name": "default",
+        "project_name": "demo",
+        "runtime": "python3.6",
+        "s3_bucket": "zappa-xot8wugx1",
+        "aws_region": "us-east-2"
+    }
+}
